@@ -147,7 +147,7 @@ public class comtradeShopLoginForm {
     }
 
     /**
-     * 04.TC Login form - Submit only password field
+     * 04.TC Login form - Submit valid data for username and password
      */
     @Test
     public void Test4() throws Exception {
